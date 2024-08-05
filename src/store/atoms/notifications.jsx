@@ -1,13 +1,13 @@
-import { atom } from "recoil";
+// import { atom } from "recoil";
 
-const notificationsState = atom({
-    key: "notificationsState",
-    default: {
-        home: 0,
-        network: 0,
-        message: 0,
-        profile: 0,
-    },
-});
+// const notificationsState = atom({
+//     key: "notificationsState",
+//     default: {
+//         home: 0,
+//         network: 0,
+//         message: 0,
+//         profile: 0,
+//     },
+// });
 
-export default notificationsState;
+// export default notificationsState;
